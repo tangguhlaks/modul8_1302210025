@@ -1,0 +1,15 @@
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\bin\Debug\net6.0\modul8_1302210025.exe
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\bin\Debug\net6.0\modul8_1302210025.deps.json
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\bin\Debug\net6.0\modul8_1302210025.runtimeconfig.json
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\bin\Debug\net6.0\modul8_1302210025.dll
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\bin\Debug\net6.0\modul8_1302210025.pdb
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.csproj.AssemblyReference.cache
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.AssemblyInfoInputs.cache
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.AssemblyInfo.cs
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.csproj.CoreCompileInputs.cache
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.dll
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\refint\modul8_1302210025.dll
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.pdb
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\modul8_1302210025.genruntimeconfig.cache
+D:\task\JurnalMod8-KPL\modul8_1302210025\modul8_1302210025\obj\Debug\net6.0\ref\modul8_1302210025.dll
